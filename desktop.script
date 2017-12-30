@@ -1,0 +1,5 @@
+# Switches monitors to my desktop
+# Switch monitor 2 to to DVI 1
+2 0x60 0x03
+# Switch monitor 1 to DisplayPort 1
+1 0x60 0x0F
