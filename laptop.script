@@ -1,5 +1,5 @@
 # Switches my monitors to my Surface Dock
-# Switch monitor 1 to HDMI 1
-1 0x60 0x11
-# Switch monitor 0 to DisplayPort 2
-0 0x60 0x10
+# Switch monitor 1 to DisplayPort 2
+1 0x60 0x10
+# Switch monitor 0 to HDMI 1
+0 0x60 0x11
